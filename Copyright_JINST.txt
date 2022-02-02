@@ -1,0 +1,288 @@
+ Follow the instructions below to submit the agreement. Please click the "Submit" button to submit the agreement to the journal.  
+
+If you have any questions or concerns, please email copyright@iop.org quoting the Article reference number.
+
+*IMPORTANT INFORMATION – YOU WILL BE AGREEING TO TRANSFER YOUR COPYRIGHT IN THE ARTICLE*
+
+Please take the time to review the agreement before submitting. The wording in the agreement below sets out the terms and conditions under which the Named Authors and/or Copyright Owners (as applicable) will transfer or license the copyright in the Article to SISSA and/or IOP. By submitting the agreement, you will be assumed to have read, understood and accepted all the terms and conditions.
+
+Which parts of the agreement should you sign?
+
+Please read the agreement carefully and then tick the appropriate box from section A, from section B and from section C in Part 3 to confirm:
+
+    the basis upon which you would like the Article published if it is accepted (section A):
+
+    Subscription (the terms set out in Part 1 will apply) – this means that the Article will be available to individuals and institutions who subscribe to the journal in which the Article is published.  This option generally meets the criteria of funding organisations to publish 'green open access' ('green open access' means that the Accepted Manuscript can be deposited in a non-commercial repository after a set period known as an embargo period).  Please see our Author Rights policy for further information on author rights after publication and ensure you are comfortable that it fulfils your requirements
+
+Or
+
+    Gold Open Access (the terms set out in Part 2 will apply) – this means the Article will be published under a CC BY licence and will be available to everyone immediately on publication with no embargo period.  For articles submitted to the Journal up to and including 31 May 2018, you will be required to pay the Article Publication Charge of £1400/$2220/€1600 (excluding VAT where applicable) for publication on a Gold Open Access basis. For articles submitted to the Journal from 1 June 2018, you will be required to pay the Article Publication Charge of £1700/$2700/€1950 (excluding VAT where applicable) for publication on a Gold Open Access basis. By signing the agreement, and selecting Gold Open Access, you will be responsible for ensuring that the applicable Article Publication Charge is paid in full, unless otherwise agreed in writing with IOP.
+     
+
+and
+
+    the following (section B):
+
+    For Subscription - to confirm that, where relevant, each Named Author who is affiliated to a university/institution has:
+        checked whether their institution or university's open access policy is incompatible with IOP Publishing's green open access policy (some examples of incompatibility are set out further below), and
+        if it is incompatible, has obtained a waiver for the Article from their university/institution (institutions/universities allow for such waivers in their policies).
+
+Or
+
+    For Gold Open Access - to confirm that you are responsible for ensuring that the applicable Article Publication Charge charged by the Journal for Gold Open Access is paid in full, unless otherwise agreed in writing.  
+
+
+and
+
+    the basis upon which you are granting SISSA and IOP the right to publish the copyright in the Article (section C):
+
+    in most cases a standard transfer of copyright will apply (please select this box unless one of the other scenarios below applies), or
+
+    under Crown copyright - the Article is fully protected by Crown copyright under section 163 of the Copyright, Designs and Patents Act 1988 or any subsequent amendment to that Act, or
+
+    under the laws relating to the US Government, or
+
+    Other – this should only be selected if you cannot agree to the terms of the agreement.  Please note that, by selecting this, we will still require you to either re-sign the agreement or another agreement before we can accept the Article.
+
+
+The Submitting Author should also sign and date the bottom of the agreement.
+
+Who should sign the agreement if the Named Author(s) do not own the copyright in the Article?
+
+If you, as the Named Author(s), do not own the copyright in the Article because, for example, it was prepared as part of your duties as employee(s), please
+
+    warrant you have all the rights necessary to enter into the agreement on behalf of the Copyright Owner by filling in the full name of the organisation/company who owns the copyright in the Copyright Owner box below and entering your name and the date at the bottom of the agreement.
+
+(Please ensure that you have made the Copyright Owner aware of the terms of the agreement and that you have the authority of the Copyright Owner to enter into the agreement on their behalf).       
+
+
+Who should sign the agreement if the Article has more than one Named Author?
+
+If there are several Named Authors, one author (the Submitting Author) should submit the agreement on behalf of their co-authors in a representative capacity.
+
+The Submitting Author must ensure that they have the authority of all Named Authors to enter into the agreement on their behalf.
+
+I am affiliated to a university/institution, do I need a waiver from my institution or university's open access policy?
+
+All Named Authors who are affiliated to a university/institution, who are publishing an Article on a subscription basis (i.e. not on a gold open access basis), must each obtain a waiver for the Article from their institution or university's open access policy if it is incompatible with IOP Publishing's green open access policy.   Institutions/universities allow for such waivers in their policies.  Each Named Author affiliated to a university/institution is responsible for checking whether their university or institution's open access policy is incompatible with IOP Publishing's green open access policy.
+
+What are examples of open access policies which are incompatible with IOP Publishing's green open access policy?
+
+Examples are:
+
+    if the policy requires immediate depositing of the Accepted Manuscript with the institution/university; or
+    if the policy requires the Accepted Manuscript to be made generally available within a shorter embargo period than 12 months from the date of first online publication of the Final Published Version by IOP Publishing; or
+    if the policy requires the Final Published Version (rather than the Accepted Manuscript) to be deposited; or
+    if the policy requires an open access or any form of creative commons licence to be attached to the Accepted Manuscript when depositing it in the institution/university repository which does not comply with the copyright status of the Accepted Manuscript*; or
+    if the institution/university repository automatically attaches an open access or creative commons licence to the Accepted Manuscript which does not comply with the copyright status of the Accepted Manuscript*.
+
+
+The above list is intended to provide examples only and is not a comprehensive list of how a policy could be incompatible with IOP Publishing's green open access policy.
+
+*Accepted Manuscripts of Journal of Instrumentation are fully protected by copyright, unless expressly stated otherwise by IOP.
+
+For more information on waivers, why SISSA and IOP require them, which Named Authors they apply to and how to request a waiver, please refer to this page.
+
+ 
+
+Assignment of copyright and publication agreement
+
+IOP Publishing Limited ("IOP") and SISSA Medialab Srl ("SISSA") agree to publish:
+
+Manuscript Title: Upgrades to the CMS Cathode Strip Chambers for the HL-LHC ("the Article") written by
+
+Names of all authors: Collaboration, Nicholas Manganelli on behalf of the CMS ("the Named Authors") in the following journal: Journal of Instrumentation ("the Journal")
+
+Name of copyright owner(s)/Institution (if not the Named Author(s) – see Important Information above):
+
+ 
+("the Copyright Owner")
+ 
+IOP Ref: JINST_149P_0120
+ 
+Part 1 – Subscription Copyright Assignment
+1.1 In consideration for acceptance and publication of the Article, the Named Authors of the Article and/or the Copyright Owner hereby assign, where necessary by present assignment of future copyright, to IOP and SISSA with full title guarantee the entire copyright in all original material published as part of the Article (which expression includes but is not limited to the text, abstract, tables, figures and graphs, related corrigenda and "comments" and multimedia content but excludes any other item referred to as supplementary material and/or any video abstract) throughout the world for the full term of copyright (including any extensions or renewals thereof) for all media and formats, whether known or unknown.  Such assignment shall be effective only if the Article (or any resubmission of the Article) is accepted for publication.  For the avoidance of doubt, copyright does not subsist in any fundamental data underlying the Article and nothing in this agreement is intended to limit access to or use of such data..
+
+1.2 If the Article, or any part of it, is protected by Crown copyright, in consideration for acceptance and publication of the Article, the relevant Named Authors and the relevant originating department or agency hereby grant SISSA and IOP a non-exclusive royalty-free worldwide freely-transferrable licence for the full term of copyright (including any extensions or renewals thereof) for all media and formats, whether known or unknown, to do in relation to the Article all acts restricted by copyright worldwide including, but not limited to, the right of action under section 101A of the Copyright Designs and Patents Act 1988.  Such licence shall be effective only if the Article is accepted for publication
+
+1.3 If all the Named Authors are employees of the US Government, they represent and warrant to IOP and SISSA that the Article was prepared as part of their official duties.  In such circumstances, or where the Article was created as part of a work for hire, none of the original content within the Article is subject to copyright protection as it is in the public domain.1.4 In consideration for acceptance and publication of the Article, the Named Authors and/or the Copyright Owner hereby grant IOP and SISSA a royalty free non-exclusive worldwide freely transferrable licence for the full term of copyright (including any extensions or renewals thereof) to do in relation to any supplementary material not deemed to be part of the Article and/or any video abstract all acts restricted by copyright worldwide. This shall include, but not be limited to, making the material available under any licence that SISSA or IOP deems appropriate for purposes including, but not limited to, the maximisation of visibility and the long term preservation of the content.
+
+1.4 Each of the Named Authors consents to all publication and processing of their personal data by SISSA and IOP, as that data is displayed on the Article, including, but not limited to, the names and email addresses of the Named Authors.  Accordingly, the Named Authors shall not object on data protection grounds to the use of their personal data on the Article wherever SISSA and/or IOP choose to display it, whether themselves or via a third party.
+
+Representations and warranties
+
+2.1 The Copyright Owner and/or the Submitting Author on behalf of the Named Authors (as appropriate) represent and warrant that:
+
+2.1.1 the Article is the original work of the Named Authors;
+
+2.2 the Article has not been published previously in any form, other than in accordance with our Preprint pre-publication policy;
+
+2.1.3 each of the Named Authors has made a material contribution to the conception and/or writing of the Article, has received the final version of the Article, has agreed to its submission on the terms contained herein and takes responsibility for it and submission has been approved as necessary by the authorities at the establishment where the research was carried out;
+
+2.1.4 the Submitting Author completes and returns this agreement as authorised agent for and on behalf of all the Named Authors and the Copyright Owner (as applicable) and has the full power to enter into this agreement and to make the grants and assignments it contains;
+
+2.1.5 the Article has not been and shall not be submitted to another publisher prior to withdrawal or rejection by SISSA;
+ 
+2.1.6 the Article does not infringe any third party rights, it contains nothing libellous or unlawful, all factual statements are to the best of the Named Authors' knowledge true or based on valid research conducted according to accepted norms and all required permissions have been obtained in writing;
+
+2.1.7 the Article expressly acknowledges any third party funding and/or potential conflicts of interest; and;
+
+2.1.8 any supplementary material or video abstract is the original work of the Named Authors, or is the property of the Copyright Owner, or permission has been obtained from its owner(s) for its publication by IOP and SISSA and permission has been obtained for the inclusion of any third party content.
+
+2.2 The Named Authors and/or the Copyright Owner (as appropriate) indemnify and will keep indemnified SISSA and IOP against all costs and expenses suffered or incurred by SISSA or IOP as a result of and/or arising out of any breach of the representations and/or warranties in this section 2.
+
+The Named Authors' rights
+ 
+3.1 IOP and SISSA grant the Named Authors the rights specified in paragraphs 3.2 and 3.3.  All such rights must be exercised solely for non-commercial purposes. Where possible, any use should display citation information and IOP's and SISSA's copyright notice, and for electronic use, best efforts must be made to include a link to the on-line abstract in the Journal. 
+
+Exercise of the rights in paragraph 3.2 may use the peer reviewed, edited, formatted and typeset version of the Article including any tagging, indexing and other enhancements published by IOP and/or its licensors ("Final Published Version").
+
+Exercise of the rights in paragraph 3.3 must not use the Final Published Version and extend only to the version of the Article accepted for publication  including all changes made as a result of the peer review process, and which may also include the addition to the article by IOP of a header, an article ID, a cover sheet and/or an 'Accepted Manuscript' watermark, but excluding any other  editing, typesetting or other changes made by IOP and/or its licensors)  (the "Accepted Manuscript") and must be accompanied by the following statement of provenance:
+
+'This is the Accepted Manuscript version of an article accepted for publication in Journal of Instrumentation. Neither SISSA Medialab Srl nor IOP Publishing Ltd is responsible for any errors or omissions in this version of the manuscript or any version derived from it.  The Version of Record is available online at [insert DOI].'
+
+3.2 The rights are:
+
+3.2.1 To make copies of the Final Published Version of the Article (all or part) for teaching purposes;
+
+3.2.2 To include the Final Published Version of the Article (all or part) in a research thesis or dissertation provided it is not then published commercially;
+
+3.2.3 To make oral presentation of the Final Published Version of the Article (all or part) and to include a summary and/or highlights of it in papers distributed at such presentations or in conference proceedings; and
+
+3.2.4 To use original figures and text from the Final Published Version of the Article falling within the quota outlined in and subject to the STM Permissions Guidelines (http://www.stm-assoc.org/permissions-guidelines/) at the relevant time in force. For the avoidance of doubt, the Named Authors retain all proprietary rights in the Article other than copyright.
+
+3.3 Additional rights of the Named Authors are to:
+
+3.3.1 Use the Accepted Manuscript (all or part) without modification in personal compilations or publications of a Named Author's own works (provided not created by third party publisher) provided the Named Author adds citation information and a link, via DOI, to the Version of Record, along with the statement of provenance as set out above;
+
+3.3.2 Include the Accepted Manuscript (all or part) on a Named Author's own personal web site provided the Named Author adds citation information and a link, via DOI, to the Version of Record, along with the statement of provenance as set out above;
+
+3.3.3 No sooner than 12 months after publication to include the Accepted Manuscript (all or part) on web sites of the Institution (including its repository) where a Named Author worked when research for the Article was carried out provided the Named Author adds citation information and a link, via DOI, to the Version of Record, along with the statement of provenance as set out above;
+
+3.3.4 No sooner than 12 months after publication to include the Accepted Manuscript (all or part) on non-commercial third party web sites including non-commercial e-print servers, but not on other publisher's web sites provided the Named Author adds citation information and a link, via DOI, to the Version of Record, along with the statement of provenance as set out above; and
+
+3.3.5 Include the Accepted Manuscript (all or part) on arXiv once the Article has been published provided the Named Author selects the licence statement offered by arXiv when uploading their paper being a perpetual 'non-exclusive licence to distribute' and not a Creative Commons licence, add citation information and a link, via DOI, to the Version of Record, along with the statement of provenance as set out above
+
+Miscellaneous
+
+4. To the extent that there are moral rights in the Article, all the Named Authors expressly reserve and assert their moral rights to be identified as the authors of the Article.
+
+5. The Named Authors and/or the Copyright Owner shall execute such further documents, and take such actions and do such things, as may be requested by IOP to give full effect to the terms of the agreement.
+
+6. For the avoidance of doubt, the grants and assignment envisaged herein shall become effective only upon acceptance of the Article for publication.  In the event that the Article is withdrawn prior to acceptance, or is rejected, this agreement shall have no effect and no party shall be bound by it.
+
+7. This agreement shall be governed by English law and subject to the non-exclusive jurisdiction of the English courts.
+
+8. By selecting to publish on a subscription basis, the Submitting Author is responsible for ensuring that, where relevant all Named Authors, who are affiliated to a university/institution which has an open access policy which is incompatible with IOP's green open access policy, obtain a waiver for the Article from their institution or university's open access policy and retain such waiver as evidence of compliance.  These Named Authors shall obtain such waivers and provide them to SISSA and/or IOP (as applicable) promptly on request.
+
+9. By typing the Submitting Author's name into the box at Part 3 below and clicking "Submit", the Named Authors agree to these terms. The Authorised Signatories of any third party Copyright Owner(s) and/or the Submitting Author agree, on behalf of such Copyright Owners, to these terms by typing the Copyright Owner's name into the "Copyright Owner" box at the top of the page.
+
+Part 2- Publication on a Gold Open Access basis
+ 
+Licence of copyright
+ 
+ 1.1  In consideration for acceptance and publication of the Article, the Named Authors of the Article and/or the Copyright Owner grants exclusively to IOP and SISSA an irrevocable, freely transferrable, worldwide, perpetual, exclusive, royalty-free licence for the full term of copyright (including any extensions or renewals thereof) for all media and formats, whether known or unknown, to do in relation to the Article, or any part of it, all acts restricted by copyright worldwide.
+ 
+1.2 If the Article, or any part of it, is protected by Crown copyright, in consideration for acceptance and publication of the Article, the relevant Named Authors and the relevant originating department or agency hereby grant SISSA and IOP a non-exclusive royalty-free worldwide freely-transferrable licence for the full term of copyright (including any extensions or renewals thereof) for all media and formats, whether known or unknown, to do in relation to the Article all acts restricted by copyright worldwide including, but not limited to, the right of action under section 101A of the Copyright Designs and Patents Act 1988.  Such licence shall be effective only if the Article is accepted for publication
+
+1.3 If all the Named Authors are employees of the US Government, they represent and warrant to IOP and SISSA that the Article was prepared as part of their official duties.  In such circumstances, or where the Article was created as part of a work for hire, none of the original content within the Article is subject to copyright protection as it is in the public domain.
+
+1.4 In consideration for acceptance and publication of the Article, the Named Authors and/or the Copyright Owner hereby grant IOP and SISSA a royalty free non-exclusive worldwide  freely transferrable licence for the full term of copyright (including any extensions or renewals thereof) to do in relation to any supplementary material not deemed to be part of the Article and/or any video abstract all acts restricted by copyright worldwide. This shall include, but not be limited to, making the material available under any licence that SISSA or IOP deems appropriate for purposes including, but not limited to, the maximisation of visibility and the long term preservation of the content.
+ 
+1.5 Each of the Named Authors consents to all publication and processing of their personal data by SISSA and IOP, as that data is displayed on the Article, including, but not limited to, the names and email addresses of the Named Authors.  Accordingly, the Named Authors shall not object on data protection grounds to the use of their personal data on the Article wherever SISSA and/or IOP choose to display it, whether themselves or via a third party.
+
+1.6 Each of the Named Authors and, where relevant, the Copyright Owner consents to the publication of the Article under the  Creative Commons Attribution 3.0 Unported licence (CC BY 3.0) (http://creativecommons.org/licenses/by/3.0/) or any successor to that licence
+
+Representations and warranties
+ 
+2.1  The Copyright Owner and/or the Submitting Author, on behalf of the Named Authors (as appropriate) represent and warrant that:
+
+2.1.1 the Article is the original work of the Named Authors;
+
+2.1.2 the Article has not been published previously in any form, other than in accordance with our Preprint pre-publication policy;
+
+2.1.3 each of the Named Authors has made a material contribution to the conception and/or writing of the Article, has received the final version of the Article, has agreed to its submission on the terms contained herein and takes responsibility for it and submission has been approved as necessary by the authorities at the establishment where the research was carried out;
+
+2.1.4 the Submitting Author completes and returns the agreement as authorised agent for and on behalf of all the Named Authors and Copyright Owner (as applicable) and has the full power to enter into the agreement and to make the grants and assignments it contains;
+
+2.1.5 the Article has not been and shall not be submitted to another publisher prior to withdrawal or rejection by SISSA;
+
+2.1.6 the Article does not infringe any third party rights, it contains nothing libellous or unlawful, all factual statements are to the best of the Named Authors' knowledge true or based on valid research conducted according to accepted norms and all required permissions have been obtained in writing;
+
+2.1.7 the Article expressly acknowledges any third party funding and/or potential conflicts of interest; and
+
+2.1.8any supplementary material or video abstract is the original work of the Named Authors, or is the property of the Copyright Owner, or permission has been obtained from its owner(s) for its publication by IOP and SISSA and permission has been obtained for the inclusion of any third party content.
+ 
+2.2  The Named Authors and/or the Copyright Owner indemnify and will keep indemnified SISSA and IOP against all costs and expenses suffered or incurred by SISSA or IOP as a result of and/or arising out of any breach of the representations and/or warranties in this section 2.
+
+The Named Authors' rights
+ 
+3.1 The Named Authors and all third parties will have the rights to use the Article as described in the licence applied to the Article pursuant to paragraph 1.6, above, which shall include the right to copy, distribute and display the published version of the Article and create derivative works, subject to appropriate attribution.
+
+3.2 Where the Article is used in accordance with paragraph 3.1 above, the following attribution shall be included subject to any additional terms of the licence under which the Article was published:
+Article title
+Named Author(s)
+DOI
+Journal citation
+Name of the licence with a link to that licence
+Indication if any changes were made
+
+Miscellaneous
+ 
+4. To the extent that there are moral rights in the Article, all the Named Authors expressly reserve and assert their moral rights to be identified as the authors of the Article.
+ 
+5. . The Named Authors and/or the Copyright Owner shall execute such further documents, and take such actions and do such things, as may be requested by IOP to give full effect to the terms of the agreement.
+
+6. For the avoidance of doubt, the grants envisaged herein shall become effective only upon acceptance by SISSA of the Article for publication.  In the event that the Article is withdrawn prior to acceptance, or is rejected, this licence shall have no effect and no party shall be bound by it.
+
+7. This agreement shall be governed by English law and subject to the non-exclusive jurisdiction of the English courts.
+
+Confirmation
+
+8.  By selecting to publish Gold Open Access, the Submitting Author is responsible for ensuring that the Article Publication Charge of the Journal is paid in full, pursuant to IOP's payment terms, unless otherwise agreed in writing with IOP.
+
+9. By typing the Submitting Author's name into the box at Part 3 below and clicking "Submit", the Named Authors agree to all these terms.  Authorised Signatories of any third party Copyright Owner(s) and/or the Submitting Author agree, on behalf of such Copyright Owners, to these terms by typing the Copyright Owner's name into the "Copyright Owner" box at the top of the page.
+Part 3 – Confirmation and Execution
+
+Please tick the appropriate boxes in section A, section B and section C below.
+
+
+Section A - Please tick one of the boxes below to confirm how you would like the article published (if it is accepted):
+
+ Please tick the box below to confirm the basis upon which you are submitting the Article.
+
+ Subscription  - Part 1 Applies
+ 
+
+ Gold Open Access  - Part 2 Applies
+
+
+Section B – Please tick one of the boxes below to confirm the following:
+ For subscription.  Please tick this box to confirm that each Named Author, who is affiliated to a university/institution which has an open access policy which is incompatible with IOP's green open access policy, has obtained a waiver for the Article from their institution or university's open access policy. For more information refer to this page.
+ 
+
+ For Gold Open Access.  Please tick this box to confirm that you understand that you are responsible for ensuring that the applicable Article Publication Charge charged by the Journal for Gold Open Access is paid in full, unless otherwise agreed in writing with IOP.
+
+
+Section C - Please ALSO tick one of the boxes below to confirm the basis upon which you are granting IOP and SISSA the right to publish the article (if it is accepted):
+ 
+
+ Standard transfer of copyright  (assignment) – please select this box unless one of the exceptions below applies to the Article.
+ Crown copyright  - (the Article is fully protected by Crown copyright under section 163 of the Copyright, Designs and Patents Act 1988 or any subsequent amendment to that Act).
+
+ US Government  (where all the Named Authors are employees of the US Government and the Article was prepared as part of their official duties OR where the Article was created as part of work made for hire by the US Government and, in either case, is therefore covered by the US Government exception).
+ Other (if the terms of the agreement do not apply to you).  Please state brief reason why below.  By ticking this box, you are not agreeing to any form of copyright licence or transfer, which is a requirement for SISSA and IOP to be able to accept an article.  IOP will contact you as you will either need to re-sign the agreement by selecting the appropriate boxes above or an alternative copyright form will need to be agreed with IOP.
+
+
+
+Type your name here:
+
+Your Name: 
+
+(the "Submitting Author").
+
+Date:02-Mar-2020
+By clicking "Submit" and typing your name above, you shall be assumed to have read and understood all of the terms and conditions of the relevant part of this agreement and you will be agreeing to all of the terms and conditions and assignment (as the case may be) detailed above.
+
+LAST UPDATED May 2018
+ 
